@@ -1,0 +1,136 @@
+[{
+   "id":1,
+   "name": "Sol Badguy",
+   "type": "Balance",
+   "description": "Chracter Description / story here",
+   "image": "archive_sol",
+   "videoURL":"http://youtube.com",
+   "moveList":"Items"   
+},
+{
+   "id":2,
+   "name": "Ky",
+   "type": "Balance",
+   "description": "Chracter Description / story here",
+   "image": "archive_kyk",
+   "videoURL":"http://youtube.com",
+   "moveList":"Items"   
+},
+{
+   "id":3,
+   "name": "May",
+   "type": "Balance",
+   "description": "Chracter Description / story here",
+   "image": "archive_may",
+   "videoURL":"http://youtube.com",
+   "moveList":"Items"   
+},
+{
+    "id":4,
+    "name": "Chipp",
+    "type": "High Speed",
+    "description": "Chracter Description / story here",
+    "image": "archive_chp",
+    "videoURL":"http://youtube.com",
+    "moveList":"Items"   
+ },
+ {
+    "id":5,
+    "name": "Potemkin",
+    "type": "Power Throw",
+    "description": "Chracter Description / story here",
+    "image": "archive_pot",
+    "videoURL":"http://youtube.com",
+    "moveList":"Items"   
+ },
+ {
+    "id":6,
+    "name": "Faust",
+    "type": "Unique",
+    "description": "Chracter Description / story here",
+    "image": "archive_fau",
+    "videoURL":"http://youtube.com",
+    "moveList":"Items"   
+ },
+ {
+    "id":7,
+    "name": "Millia",
+    "type": "High Speed",
+    "description": "Chracter Description / story here",
+    "image": "archive_mil",
+    "videoURL":"http://youtube.com",
+    "moveList":"Items"   
+ },
+ {
+    "id":8,
+    "name": "Zato",
+    "type": "Technical",
+    "description": "Chracter Description / story here",
+    "image": "archive_zat",
+    "videoURL":"http://youtube.com",
+    "moveList":"Items"   
+ },
+ {
+    "id":9,
+    "name": "Ramlethal",
+    "type": "Shooting",
+    "description": "Chracter Description / story here",
+    "image": "archive_ram",
+    "videoURL":"http://youtube.com",
+    "moveList":"Items"   
+ },
+ {
+    "id":10,
+    "name": "Leo",
+    "type": "Balance",
+    "description": "Chracter Description / story here",
+    "image": "archive_leo",
+    "videoURL":"http://youtube.com",
+    "moveList":"Items"   
+ },
+ {
+    "id":11,
+    "name": "Nagoriyuki",
+    "type": "One Shot",
+    "description": "Chracter Description / story here",
+    "image": "archive_nag",
+    "videoURL":"http://youtube.com",
+    "moveList":"Items"   
+ },
+ {
+    "id":12,
+    "name": "Giovanna",
+    "type": "Rush",
+    "description": "Chracter Description / story here",
+    "image": "archive_gio",
+    "videoURL":"http://youtube.com",
+    "moveList":"Items"   
+ },
+ {
+    "id":13,
+    "name": "Anji",
+    "type": "Balance",
+    "description": "Chracter Description / story here",
+    "image": "archive_anj",
+    "videoURL":"http://youtube.com",
+    "moveList":"Items"   
+ },
+ {
+    "id":14,
+    "name": "I-No",
+    "type": "Rush",
+    "description": "Chracter Description / story here",
+    "image": "archive_ino",
+    "videoURL":"http://youtube.com",
+    "moveList":"Items"   
+ },
+
+{
+   "id":15,
+   "name": "Axl",
+   "type": "Long Ranged",
+   "description": "Chracter Description / story here",
+   "image": "archive_axl",
+   "videoURL":"http://youtube.com",
+   "moveList":"Items"   
+}]
