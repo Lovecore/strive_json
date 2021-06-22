@@ -5,11 +5,8 @@
    "description": "Chracter Description / story here",
    "image": "archive_sol",
    "videoURL":"http://youtube.com",
-   "moveList":{
-      "Move 1":"6+P",
-      "Move 2":"2+D",
-      "Move 3":"2+H"
-   }},
+   "moveList":"6+P"
+},
 {
    "id":2,
    "name": "Ky",
@@ -17,11 +14,8 @@
    "description": "Chracter Description / story here",
    "image": "archive_kyk",
    "videoURL":"http://youtube.com",
-   "moveList":{
-      "Move 1":"6+P",
-      "Move 2":"2+D",
-      "Move 3":"2+H"
-      }},
+   "moveList":"6+P"
+},
 {
    "id":3,
    "name": "May",
@@ -29,11 +23,8 @@
    "description": "Chracter Description / story here",
    "image": "archive_may",
    "videoURL":"http://youtube.com",
-   "moveList":{
-      "Move 1":"6+P",
-      "Move 2":"2+D",
-      "Move 3":"2+H"
- }},
+    "moveList":"6+P"
+},
 {
     "id":4,
     "name": "Chipp",
@@ -41,11 +32,8 @@
     "description": "Chracter Description / story here",
     "image": "archive_chp",
     "videoURL":"http://youtube.com",
-    "moveList":{
-      "Move 1":"6+P",
-      "Move 2":"2+D",
-      "Move 3":"2+H"
-       }},
+     "moveList":"6+P"
+},
  {
     "id":5,
     "name": "Potemkin",
@@ -53,11 +41,8 @@
     "description": "Chracter Description / story here",
     "image": "archive_pot",
     "videoURL":"http://youtube.com",
-    "moveList": {
-      "Move 1":"6+P",
-      "Move 2":"2+D",
-      "Move 3":"2+H"
-       }},
+     "moveList":"6+P"
+},
  {
     "id":6,
     "name": "Faust",
@@ -65,11 +50,8 @@
     "description": "Chracter Description / story here",
     "image": "archive_fau",
     "videoURL":"http://youtube.com",
-    "moveList": {
-      "Move 1":"6+P",
-      "Move 2":"2+D",
-      "Move 3":"2+H"
-       }},
+     "moveList":"6+P"
+},
  {
     "id":7,
     "name": "Millia",
@@ -77,11 +59,8 @@
     "description": "Chracter Description / story here",
     "image": "archive_mil",
     "videoURL":"http://youtube.com",
-    "moveList": {
-      "Move 1":"6+P",
-      "Move 2":"2+D",
-      "Move 3":"2+H"
-    }},
+     "moveList":"6+P"
+},
  {
     "id":8,
     "name": "Zato",
@@ -89,11 +68,8 @@
     "description": "Chracter Description / story here",
     "image": "archive_zat",
     "videoURL":"http://youtube.com",
-    "moveList": {
-      "Move 1":"6+P",
-      "Move 2":"2+D",
-      "Move 3":"2+H"
-    }},
+     "moveList":"6+P"
+},
  {
     "id":9,
     "name": "Ramlethal",
@@ -101,11 +77,8 @@
     "description": "Chracter Description / story here",
     "image": "archive_ram",
     "videoURL":"http://youtube.com",
-    "moveList": {
-      "Move 1":"6+P",
-      "Move 2":"2+D",
-      "Move 3":"2+H"
-    }},
+     "moveList":"6+P"
+},
  {
     "id":10,
     "name": "Leo",
@@ -113,11 +86,8 @@
     "description": "Chracter Description / story here",
     "image": "archive_leo",
     "videoURL":"http://youtube.com",
-    "moveList": {
-      "Move 1":"6+P",
-      "Move 2":"2+D",
-      "Move 3":"2+H"
-    }},
+     "moveList":"6+P"
+},
  {
     "id":11,
     "name": "Nagoriyuki",
@@ -125,11 +95,8 @@
     "description": "Chracter Description / story here",
     "image": "archive_nag",
     "videoURL":"http://youtube.com",
-    "moveList": {
-      "Move 1":"6+P",
-      "Move 2":"2+D",
-      "Move 3":"2+H"
-    }},
+     "moveList":"6+P"
+},
  {
     "id":12,
     "name": "Giovanna",
@@ -137,11 +104,8 @@
     "description": "Chracter Description / story here",
     "image": "archive_gio",
     "videoURL":"http://youtube.com",
-    "moveList": {
-      "Move 1":"6+P",
-      "Move 2":"2+D",
-      "Move 3":"2+H"
-    }},
+     "moveList":"6+P"
+},
  {
     "id":13,
     "name": "Anji",
@@ -149,11 +113,8 @@
     "description": "Chracter Description / story here",
     "image": "archive_anj",
     "videoURL":"http://youtube.com",
-    "moveList": {
-      "Move 1":"6+P",
-      "Move 2":"2+D",
-      "Move 3":"2+H"
-    }},
+    "moveList":"6+P"
+},
  {
     "id":14,
     "name": "I-No",
@@ -161,11 +122,8 @@
     "description": "Chracter Description / story here",
     "image": "archive_ino",
     "videoURL":"http://youtube.com",
-    "moveList": {
-      "Move 1":"6+P",
-      "Move 2":"2+D",
-      "Move 3":"2+H"
-    }},
+     "moveList":"6+P"
+},
 {
    "id":15,
    "name": "Axl",
@@ -173,9 +131,6 @@
    "description": "Chracter Description / story here",
    "image": "archive_axl",
    "videoURL":"http://youtube.com",
-  "moveList": {
-      "Move 1":"6+P",
-      "Move 2":"2+D",
-      "Move 3":"2+H"
-  }}
+   "moveList":"6+P"
+}
 ]
