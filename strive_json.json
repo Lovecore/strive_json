@@ -1,136 +1,347 @@
-[{
-   "id":1,
-   "name": "Sol Badguy",
-   "type": "Balance",
-   "description": "Chracter Description / story here",
-   "image": "archive_sol",
-   "videoURL":"http://youtube.com",
-   "moveList":["6+P","6+HS","6+S"]
-},
-{
-   "id":2,
-   "name": "Ky",
-   "type": "Balance",
-   "description": "Chracter Description / story here",
-   "image": "archive_kyk",
-   "videoURL":"http://youtube.com",
-   "moveList":["6+P","6+HS","6+S"]
-},
-{
-   "id":3,
-   "name": "May",
-   "type": "Balance",
-   "description": "Chracter Description / story here",
-   "image": "archive_may",
-   "videoURL":"http://youtube.com",
-    "moveList":["6+P","6+HS","6+S"]
-},
-{
-    "id":4,
+[
+  {
+    "id": 1,
+    "name": "Sol Badguy",
+    "type": "Balance",
+    "description": "Chracter Description / story here",
+    "image": "archive_sol",
+    "videoURL": "http://youtube.com",
+    "moveList": [
+      "6+P",
+      "6+HS",
+      "6+S"
+    ],
+    "moveInput": [
+      "PH",
+      "PH2",
+      "PH3"
+    ],
+    "startup": "69",
+    "active": "42",
+    "recovery": "00",
+    "onblock": "-99",
+    "invuln": "420"
+  },
+  {
+    "id": 2,
+    "name": "Ky",
+    "type": "Balance",
+    "description": "Chracter Description / story here",
+    "image": "archive_kyk",
+    "videoURL": "http://youtube.com",
+    "moveList": [
+      "6+P",
+      "6+HS",
+      "6+S"
+    ],
+    "moveInput": [
+      "PH",
+      "PH2",
+      "PH3"
+    ],
+    "startup": "69",
+    "active": "42",
+    "recovery": "00",
+    "onblock": "-99",
+    "invuln": "420"
+  },
+  {
+    "id": 3,
+    "name": "May",
+    "type": "Balance",
+    "description": "Chracter Description / story here",
+    "image": "archive_may",
+    "videoURL": "http://youtube.com",
+    "moveList": [
+      "6+P",
+      "6+HS",
+      "6+S"
+    ],
+    "moveInput": [
+      "PH",
+      "PH2",
+      "PH3"
+    ],
+    "startup": "69",
+    "active": "42",
+    "recovery": "00",
+    "onblock": "-99",
+    "invuln": "420"
+  },
+  {
+    "id": 4,
     "name": "Chipp",
     "type": "High Speed",
     "description": "Chracter Description / story here",
     "image": "archive_chp",
-    "videoURL":"http://youtube.com",
-     "moveList":["6+P","6+HS","6+S"]
-},
- {
-    "id":5,
+    "videoURL": "http://youtube.com",
+    "moveList": [
+      "6+P",
+      "6+HS",
+      "6+S"
+    ],
+    "moveInput": [
+      "PH",
+      "PH2",
+      "PH3"
+    ],
+    "startup": "69",
+    "active": "42",
+    "recovery": "00",
+    "onblock": "-99",
+    "invuln": "420"
+  },
+  {
+    "id": 5,
     "name": "Potemkin",
     "type": "Power Throw",
     "description": "Chracter Description / story here",
     "image": "archive_pot",
-    "videoURL":"http://youtube.com",
-     "moveList":["6+P","6+HS","6+S"]
-},
- {
-    "id":6,
+    "videoURL": "http://youtube.com",
+    "moveList": [
+      "6+P",
+      "6+HS",
+      "6+S"
+    ],
+    "moveInput": [
+      "PH",
+      "PH2",
+      "PH3"
+    ],
+    "startup": "69",
+    "active": "42",
+    "recovery": "00",
+    "onblock": "-99",
+    "invuln": "420"
+  },
+  {
+    "id": 6,
     "name": "Faust",
     "type": "Unique",
     "description": "Chracter Description / story here",
     "image": "archive_fau",
-    "videoURL":"http://youtube.com",
-     "moveList":["6+P","6+HS","6+S"]
-},
- {
-    "id":7,
+    "videoURL": "http://youtube.com",
+    "moveList": [
+      "6+P",
+      "6+HS",
+      "6+S"
+    ],
+    "moveInput": [
+      "PH",
+      "PH2",
+      "PH3"
+    ],
+    "startup": "69",
+    "active": "42",
+    "recovery": "00",
+    "onblock": "-99",
+    "invuln": "420"
+  },
+  {
+    "id": 7,
     "name": "Millia",
     "type": "High Speed",
     "description": "Chracter Description / story here",
     "image": "archive_mil",
-    "videoURL":"http://youtube.com",
-     "moveList":["6+P","6+HS","6+S"]
-},
- {
-    "id":8,
+    "videoURL": "http://youtube.com",
+    "moveList": [
+      "6+P",
+      "6+HS",
+      "6+S"
+    ],
+    "moveInput": [
+      "PH",
+      "PH2",
+      "PH3"
+    ],
+    "startup": "69",
+    "active": "42",
+    "recovery": "00",
+    "onblock": "-99",
+    "invuln": "420"
+  },
+  {
+    "id": 8,
     "name": "Zato",
     "type": "Technical",
     "description": "Chracter Description / story here",
     "image": "archive_zat",
-    "videoURL":"http://youtube.com",
-     "moveList":["6+P","6+HS","6+S"]
-},
- {
-    "id":9,
+    "videoURL": "http://youtube.com",
+    "moveList": [
+      "6+P",
+      "6+HS",
+      "6+S"
+    ],
+    "moveInput": [
+      "PH",
+      "PH2",
+      "PH3"
+    ],
+    "startup": "69",
+    "active": "42",
+    "recovery": "00",
+    "onblock": "-99",
+    "invuln": "420"
+  },
+  {
+    "id": 9,
     "name": "Ramlethal",
     "type": "Shooting",
     "description": "Chracter Description / story here",
     "image": "archive_ram",
-    "videoURL":"http://youtube.com",
-     "moveList":["6+P","6+HS","6+S"]
-},
- {
-    "id":10,
+    "videoURL": "http://youtube.com",
+    "moveList": [
+      "6+P",
+      "6+HS",
+      "6+S"
+    ],
+    "moveInput": [
+      "PH",
+      "PH2",
+      "PH3"
+    ],
+    "startup": "69",
+    "active": "42",
+    "recovery": "00",
+    "onblock": "-99",
+    "invuln": "420"
+  },
+  {
+    "id": 10,
     "name": "Leo",
     "type": "Balance",
     "description": "Chracter Description / story here",
     "image": "archive_leo",
-    "videoURL":"http://youtube.com",
-     "moveList":["6+P","6+HS","6+S"]
-},
- {
-    "id":11,
+    "videoURL": "http://youtube.com",
+    "moveList": [
+      "6+P",
+      "6+HS",
+      "6+S"
+    ],
+    "moveInput": [
+      "PH",
+      "PH2",
+      "PH3"
+    ],
+    "startup": "69",
+    "active": "42",
+    "recovery": "00",
+    "onblock": "-99",
+    "invuln": "420"
+  },
+  {
+    "id": 11,
     "name": "Nagoriyuki",
     "type": "One Shot",
     "description": "Chracter Description / story here",
     "image": "archive_nag",
-    "videoURL":"http://youtube.com",
-     "moveList":["6+P","6+HS","6+S"]
-},
- {
-    "id":12,
+    "videoURL": "http://youtube.com",
+    "moveList": [
+      "6+P",
+      "6+HS",
+      "6+S"
+    ],
+    "moveInput": [
+      "PH",
+      "PH2",
+      "PH3"
+    ],
+    "startup": "69",
+    "active": "42",
+    "recovery": "00",
+    "onblock": "-99",
+    "invuln": "420"
+  },
+  {
+    "id": 12,
     "name": "Giovanna",
     "type": "Rush",
     "description": "Chracter Description / story here",
     "image": "archive_gio",
-    "videoURL":"http://youtube.com",
-     "moveList":["6+P","6+HS","6+S"]
-},
- {
-    "id":13,
+    "videoURL": "http://youtube.com",
+    "moveList": [
+      "6+P",
+      "6+HS",
+      "6+S"
+    ],
+    "moveInput": [
+      "PH",
+      "PH2",
+      "PH3"
+    ],
+    "startup": "69",
+    "active": "42",
+    "recovery": "00",
+    "onblock": "-99",
+    "invuln": "420"
+  },
+  {
+    "id": 13,
     "name": "Anji",
     "type": "Balance",
     "description": "Chracter Description / story here",
     "image": "archive_anj",
-    "videoURL":"http://youtube.com",
-    "moveList":["6+P","6+HS","6+S"]
-},
- {
-    "id":14,
+    "videoURL": "http://youtube.com",
+    "moveList": [
+      "6+P",
+      "6+HS",
+      "6+S"
+    ],
+    "moveInput": [
+      "PH",
+      "PH2",
+      "PH3"
+    ],
+    "startup": "69",
+    "active": "42",
+    "recovery": "00",
+    "onblock": "-99",
+    "invuln": "420"
+  },
+  {
+    "id": 14,
     "name": "I-No",
     "type": "Rush",
     "description": "Chracter Description / story here",
     "image": "archive_ino",
-    "videoURL":"http://youtube.com",
-     "moveList":["6+P","6+HS","6+S"]
-},
-{
-   "id":15,
-   "name": "Axl",
-   "type": "Long Ranged",
-   "description": "Chracter Description / story here",
-   "image": "archive_axl",
-   "videoURL":"http://youtube.com",
-   "moveList":["6+P","6+HS","6+S"]
-}
+    "videoURL": "http://youtube.com",
+    "moveList": [
+      "6+P",
+      "6+HS",
+      "6+S"
+    ],
+    "moveInput": [
+      "PH",
+      "PH2",
+      "PH3"
+    ],
+    "startup": "69",
+    "active": "42",
+    "recovery": "00",
+    "onblock": "-99",
+    "invuln": "420"
+  },
+  {
+    "id": 15,
+    "name": "Axl",
+    "type": "Long Ranged",
+    "description": "Chracter Description / story here",
+    "image": "archive_axl",
+    "videoURL": "http://youtube.com",
+    "moveList": [
+      "6+P",
+      "6+HS",
+      "6+S"
+    ],
+    "moveInput": [
+      "PH",
+      "PH2",
+      "PH3"
+    ],
+    "startup": "69",
+    "active": "42",
+    "recovery": "00",
+    "onblock": "-99",
+    "invuln": "420"
+  }
 ]
