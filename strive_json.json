@@ -5,7 +5,7 @@
    "description": "Chracter Description / story here",
    "image": "archive_sol",
    "videoURL":"http://youtube.com",
-   "moveList":"6+P"
+   "moveList":["6+P","6+HS","6+S"]
 },
 {
    "id":2,
@@ -14,7 +14,7 @@
    "description": "Chracter Description / story here",
    "image": "archive_kyk",
    "videoURL":"http://youtube.com",
-   "moveList":"6+P"
+   "moveList":["6+P","6+HS","6+S"]
 },
 {
    "id":3,
@@ -23,7 +23,7 @@
    "description": "Chracter Description / story here",
    "image": "archive_may",
    "videoURL":"http://youtube.com",
-    "moveList":"6+P"
+    "moveList":["6+P","6+HS","6+S"]
 },
 {
     "id":4,
@@ -32,7 +32,7 @@
     "description": "Chracter Description / story here",
     "image": "archive_chp",
     "videoURL":"http://youtube.com",
-     "moveList":"6+P"
+     "moveList":["6+P","6+HS","6+S"]
 },
  {
     "id":5,
@@ -41,7 +41,7 @@
     "description": "Chracter Description / story here",
     "image": "archive_pot",
     "videoURL":"http://youtube.com",
-     "moveList":"6+P"
+     "moveList":["6+P","6+HS","6+S"]
 },
  {
     "id":6,
@@ -50,7 +50,7 @@
     "description": "Chracter Description / story here",
     "image": "archive_fau",
     "videoURL":"http://youtube.com",
-     "moveList":"6+P"
+     "moveList":["6+P","6+HS","6+S"]
 },
  {
     "id":7,
@@ -59,7 +59,7 @@
     "description": "Chracter Description / story here",
     "image": "archive_mil",
     "videoURL":"http://youtube.com",
-     "moveList":"6+P"
+     "moveList":["6+P","6+HS","6+S"]
 },
  {
     "id":8,
@@ -68,7 +68,7 @@
     "description": "Chracter Description / story here",
     "image": "archive_zat",
     "videoURL":"http://youtube.com",
-     "moveList":"6+P"
+     "moveList":["6+P","6+HS","6+S"]
 },
  {
     "id":9,
@@ -77,7 +77,7 @@
     "description": "Chracter Description / story here",
     "image": "archive_ram",
     "videoURL":"http://youtube.com",
-     "moveList":"6+P"
+     "moveList":["6+P","6+HS","6+S"]
 },
  {
     "id":10,
@@ -86,7 +86,7 @@
     "description": "Chracter Description / story here",
     "image": "archive_leo",
     "videoURL":"http://youtube.com",
-     "moveList":"6+P"
+     "moveList":["6+P","6+HS","6+S"]
 },
  {
     "id":11,
@@ -95,7 +95,7 @@
     "description": "Chracter Description / story here",
     "image": "archive_nag",
     "videoURL":"http://youtube.com",
-     "moveList":"6+P"
+     "moveList":["6+P","6+HS","6+S"]
 },
  {
     "id":12,
@@ -104,7 +104,7 @@
     "description": "Chracter Description / story here",
     "image": "archive_gio",
     "videoURL":"http://youtube.com",
-     "moveList":"6+P"
+     "moveList":["6+P","6+HS","6+S"]
 },
  {
     "id":13,
@@ -113,7 +113,7 @@
     "description": "Chracter Description / story here",
     "image": "archive_anj",
     "videoURL":"http://youtube.com",
-    "moveList":"6+P"
+    "moveList":["6+P","6+HS","6+S"]
 },
  {
     "id":14,
@@ -122,7 +122,7 @@
     "description": "Chracter Description / story here",
     "image": "archive_ino",
     "videoURL":"http://youtube.com",
-     "moveList":"6+P"
+     "moveList":["6+P","6+HS","6+S"]
 },
 {
    "id":15,
@@ -131,6 +131,6 @@
    "description": "Chracter Description / story here",
    "image": "archive_axl",
    "videoURL":"http://youtube.com",
-   "moveList":"6+P"
+   "moveList":["6+P","6+HS","6+S"]
 }
 ]
