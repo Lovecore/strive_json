@@ -1,0 +1,63 @@
+[{
+    "id":1,
+    "movename": "Fireball",
+    "input": "236 + P",
+    "hit": "Hits High",
+    "startup": "6archive_sol",
+    "active":"16",
+    "recovery":"11",
+    "onblock":"-4",
+    "invuln":"2 - 4"   
+ },
+ {
+    "id":2,
+    "movename": "Fireball",
+    "input": "236 + P",
+    "hit": "Hits High",
+    "startup": "6archive_sol",
+    "active":"16",
+    "recovery":"11",
+    "onblock":"-4",
+    "invuln":"2 - 4"   
+ },{
+    "id":3,
+    "movename": "Fireball",
+    "input": "236 + P",
+    "hit": "Hits High",
+    "startup": "6archive_sol",
+    "active":"16",
+    "recovery":"11",
+    "onblock":"-4",
+    "invuln":"2 - 4"   
+ },{
+    "id":4,
+    "movename": "Fireball",
+    "input": "236 + P",
+    "hit": "Hits High",
+    "startup": "6archive_sol",
+    "active":"16",
+    "recovery":"11",
+    "onblock":"-4",
+    "invuln":"2 - 4"   
+ },{
+    "id":5,
+    "movename": "Fireball",
+    "input": "236 + P",
+    "hit": "Hits High",
+    "startup": "6archive_sol",
+    "active":"16",
+    "recovery":"11",
+    "onblock":"-4",
+    "invuln":"2 - 4"   
+ },
+ {
+    "id":6,
+    "movename": "Fireball",
+    "input": "236 + P",
+    "hit": "Hits High",
+    "startup": "6archive_sol",
+    "active":"16",
+    "recovery":"11",
+    "onblock":"-4",
+    "invuln":"2 - 4"    
+ }]
